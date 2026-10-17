@@ -58,7 +58,7 @@ The ready-to-use mod is available on TekkenMods:
 
 ## Credits
 
-Created by MonkeyTFS.<img width="543" height="478" alt="be591b627dcbdd92-543x478" src="https://github.com/user-attachments/assets/7153aec9-39c0-4b2c-8f42-926db07c106b" />
+Created by MonkeyTFS.
 
 
 This project isn't affiliated with or endorsed by BANDAI NAMCO Entertainment. All trademarks are the property of their respective owners.
